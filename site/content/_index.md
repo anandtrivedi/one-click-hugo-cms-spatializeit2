@@ -21,10 +21,15 @@ intro:
   heading: What we offer
   text: |-
     GIS Analysis
+
     Geodatabase Design & Development
+
     GIS Solutions Architecture
+
     GIS Software Development
+
     Systems Integration
+
     GIS Staff Augmentation
 products:
   - image: /img/134854.jpg
