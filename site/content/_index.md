@@ -21,7 +21,7 @@ intro:
   heading: What we offer
   text: 
   
-    * GIS Analysis
+    * GIS Analysiss
 
     * Geodatabase Design & Development
 
