@@ -19,18 +19,20 @@ blurb:
     you need.
 intro:
   heading: What we offer
-  text: |-
-    GIS Analysis
+  text: 
+  
+    * GIS Analysis
 
-    Geodatabase Design & Development
+    * Geodatabase Design & Development
 
-    GIS Solutions Architecture
+    * GIS Solutions Architecture
 
-    GIS Software Development
+    * GIS Software Development
 
-    Systems Integration
+    * Systems Integration
 
-    GIS Staff Augmentation
+    * GIS Staff Augmentation
+    
 products:
   - image: /img/134854.jpg
     text: >-
