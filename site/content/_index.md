@@ -19,7 +19,7 @@ blurb:
     you need.
 intro:
   heading: What we offer
-  text: 
+  text: >-
   
     * GIS Analysiss
 
