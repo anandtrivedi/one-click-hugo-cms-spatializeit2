@@ -1,3 +1,4 @@
 baseurl = "http://www.spatializeit.com/"
 languageCode = "en-us"
 title = "SpatilizeIT - Spatialize Your World!"
+logo = "/img/spatializeitlogo.png"
