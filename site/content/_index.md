@@ -20,8 +20,9 @@ blurb:
 intro:
   heading: What we offer
   text: |-
-
-    * GIS Analysis
+    <ul>
+    <li>* GIS Analysis</li>
+    </ul>
     * Geodatabase Design & Development
     * GIS Solutions Architecture
     * GIS Software Development
